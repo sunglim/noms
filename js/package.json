@@ -36,7 +36,11 @@
     "commander": "^2.9.0",
     "flow-bin": "0.30.0",
     "fs-extra": "^0.30.0",
-    "mocha": "^2.5.3"
+    "humanize": "^0.0.9",
+    "mocha": "^2.5.3",
+    "mz": "^2.4.0",
+    "varint": "^4.0.0",
+    "yargs": "^4.7.1"
   },
   "scripts": {
     "pretest": "eslint src/ && flow src/",
